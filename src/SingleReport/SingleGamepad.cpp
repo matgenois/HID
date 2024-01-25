@@ -147,8 +147,8 @@ void SingleGamepad_::SendReport(void* data, int length){
 }
 
 SingleGamepad_ Gamepad1;
-SingleGamepad_ Gamepad2;
+/*SingleGamepad_ Gamepad2;
 SingleGamepad_ Gamepad3;
-SingleGamepad_ Gamepad4;
+SingleGamepad_ Gamepad4;*/
 
 
